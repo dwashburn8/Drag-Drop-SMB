@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Drag-Drop-SMB/static/css/main.8c2f40e2.chunk.css",
+    "main.js": "/Drag-Drop-SMB/static/js/main.d1e9d1f1.chunk.js",
+    "main.js.map": "/Drag-Drop-SMB/static/js/main.d1e9d1f1.chunk.js.map",
+    "runtime-main.js": "/Drag-Drop-SMB/static/js/runtime-main.56f7536b.js",
+    "runtime-main.js.map": "/Drag-Drop-SMB/static/js/runtime-main.56f7536b.js.map",
+    "static/js/2.c635917a.chunk.js": "/Drag-Drop-SMB/static/js/2.c635917a.chunk.js",
+    "static/js/2.c635917a.chunk.js.map": "/Drag-Drop-SMB/static/js/2.c635917a.chunk.js.map",
+    "index.html": "/Drag-Drop-SMB/index.html",
+    "static/css/main.8c2f40e2.chunk.css.map": "/Drag-Drop-SMB/static/css/main.8c2f40e2.chunk.css.map",
+    "static/js/2.c635917a.chunk.js.LICENSE.txt": "/Drag-Drop-SMB/static/js/2.c635917a.chunk.js.LICENSE.txt",
+    "static/media/Contact-Menu.css": "/Drag-Drop-SMB/static/media/contact-4.4e534863.png",
+    "static/media/Content-Menu.css": "/Drag-Drop-SMB/static/media/content-3.25be1567.png",
+    "static/media/Features-Menu.css": "/Drag-Drop-SMB/static/media/features-4.9a0534ae.png",
+    "static/media/Footer-Menu.css": "/Drag-Drop-SMB/static/media/footer-5.737ff835.png",
+    "static/media/Gallery-Menu.css": "/Drag-Drop-SMB/static/media/gallery-4.76182367.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56f7536b.js",
+    "static/js/2.c635917a.chunk.js",
+    "static/css/main.8c2f40e2.chunk.css",
+    "static/js/main.d1e9d1f1.chunk.js"
+  ]
+}
