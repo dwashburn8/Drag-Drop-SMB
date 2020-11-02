@@ -34,7 +34,7 @@ function App() {
         </Board>
 
         <Board id="board-2" className="board2">
-          <a className="btn">Generate Code</a>
+          <a className="btn">Customize Code</a>
         </Board>
 
 
