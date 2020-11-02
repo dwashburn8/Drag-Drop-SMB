@@ -1,0 +1,27 @@
+.gallery{
+    /* height: 100%; */
+    min-height: 280px;
+}
+
+#board-2 .gallery{
+    height: 100%;
+    max-height:600px;
+    min-height: 470px;
+
+}
+
+#card-25{
+    background-image: url("../../../images/Gallery/gallery-4.png");
+}
+
+#card-26{
+    background-image: url("../../../images/Gallery/gallery-3.png");
+}
+
+#card-27{
+    background-image: url("../../../images/Gallery/gallery-2.png");
+}
+
+#card-28{
+    background-image: url("../../../images/Gallery/gallery-1.png");
+}

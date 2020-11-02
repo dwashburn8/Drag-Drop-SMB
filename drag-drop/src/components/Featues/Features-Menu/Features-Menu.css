@@ -1,0 +1,31 @@
+.features{
+    /* height: 100%; */
+    min-height: 280px;
+}
+
+#board-2 .features{
+    height: 100%;
+    max-height:500px;
+    min-height: 380px;
+
+}
+
+
+#card-21{
+    background-image:url("../../../images/Features/features-4.png");
+  }
+
+#card-22{
+    background-image: url("../../../images/Features/features-3.png");
+}
+
+#card-23{
+    background-image: url("../../../images/Features/features-2.png");
+}
+
+#card-24{
+    background-image: url("../../../images/Features/features-1.png");
+}
+
+
+

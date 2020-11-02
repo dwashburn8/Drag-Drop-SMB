@@ -1,0 +1,23 @@
+  #card-12{
+    /* background-image: url("/images/header-3.png"); */
+  }
+
+  #card-13{
+    /* background-image: url("/images/header-2.png"); */
+  }
+
+  #card-14{
+    /* background-image: url("/images/header-1.png"); */
+  }
+
+  .header{
+    min-height: 50px;
+  }
+
+  .upArrow{
+    width: 30px;
+    margin-left: auto;
+    background-color: #FFF;
+  }
+
+ 

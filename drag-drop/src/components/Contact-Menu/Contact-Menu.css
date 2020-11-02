@@ -1,0 +1,28 @@
+.contact{
+    /* height: 100%; */
+    min-height: 280px;
+}
+
+#board-2 .contact{
+    height: 100%;
+    max-height:500px;
+    min-height: 380px;
+
+}
+
+#card-17{
+     background-image: url("../../images/Contact/contact-4.png");
+}
+
+#card-18{
+    background-image: url("../../images/Contact/contact-3.png");
+}
+
+#card-19{
+    background-image: url("../../images/Contact/contact-2.png");
+}
+
+#card-20{
+    background-image: url("../../images/Contact/contact-1.png");
+}
+
